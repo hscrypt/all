@@ -1,0 +1,6 @@
+[submodule "demo"]
+	path = demo
+	url = https://github.com/hscrypt/demo.git
+[submodule "js"]
+	path = js
+	url = https://github.com/hscrypt/js.git
