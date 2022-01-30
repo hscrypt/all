@@ -4,3 +4,6 @@
 [submodule "js"]
 	path = js
 	url = https://github.com/hscrypt/js.git
+[submodule "webpack-plugin"]
+	path = webpack-plugin
+	url = git@github.com:hscrypt/webpack-plugin.git
