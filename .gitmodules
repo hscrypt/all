@@ -7,3 +7,6 @@
 [submodule "webpack-plugin"]
 	path = webpack-plugin
 	url = git@github.com:hscrypt/webpack-plugin.git
+[submodule "ts-chacha20"]
+	path = ts-chacha20
+	url = https://github.com/hscrypt/ts-chacha20.git
